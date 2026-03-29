@@ -1,0 +1,44 @@
+body {
+  font-family: Arial;
+  margin:0;
+  background-color: #f4f4f4;
+  text-allign:center;
+}
+header {
+  background:#333;
+  color:white;
+  padding:20px;
+}
+.about{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  padding: 20px;
+}
+.about img {
+  width: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+.skills, .projects {
+  background:white;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 10px;
+}
+button {
+  padding: 10px 20px;
+  background: #333;
+  color: white;
+  border:none;
+  cursor: pointer;
+}
+button:hover {
+  background: #555;
+}
+footer {
+  margin-top: 20px;
+  padding: 10px;
+  background: #222;
+  color: white;
+}
