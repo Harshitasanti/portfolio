@@ -1,0 +1,18 @@
+git config --global user.name "summitsharma190-hub"
+git config --global user.email "summitsharma190@gmail.com"
+
+git init
+
+git remote add origin https://github.com/summitsharma190-hub/repository1.git
+
+----------------------------------------------------------------------------------------------------------------
+
+git add .
+git commit -m "harshita"
+git push orgin main/master
+
+----------------------------------------------------------------------------------------------------------------
+
+git checkout -b feature
+
+create another file here. And above steps again.
